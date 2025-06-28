@@ -20,15 +20,15 @@ This is a simple and responsive blog website built using **HTML5**, **CSS3**, an
 
 ## 📁 Folder Structure
 
-Blog_Website/
-├── index.html
-├── about.html
-├── contact.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-└── images/
+Blog_Website/<br>
+├── index.html<br>
+├── about.html<br>
+├── contact.html<br>
+├── css/<br>
+│ └── style.css<br>
+├── js/<br>
+│ └── script.js<br>
+└── images/<br>
 
 
 ## 📌 Future Improvements
